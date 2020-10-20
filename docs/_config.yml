@@ -30,8 +30,8 @@ twitter_username: q_bihay
 github_username:  qbihay
 
 # Build settings
-#theme: minima
-theme: jekyll-theme-architect
+theme: minima
+#theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
